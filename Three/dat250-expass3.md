@@ -2,17 +2,43 @@
 
 Written by `Nicolas M Mjøs | h578011`
 
-### Technical Problems
+## Technical Problems
 
 None so far.
 
-### Validation of installation package:
+## Validation of installation package:
 
 ![Validation](./images/HashValidation.png)
 
-### Experiment 1
+## Experiment 1
 
-- - Relevant results obtained during Experiment 1 (it is not necessary to put a single screenshot on each substep, but at least one significant from each CRUD operation).
+### insert
+
+![InsertOne.png](./images/InsertOne.png)
+![InsertTwo.png](./images/InsertTwo.png)
+
+### query
+
+![HashValidation.png](./images/HashValidation.png)
+![InsertOne.png](./images/InsertOne.png)
+![InsertTwo.png](./images/InsertTwo.png)
+![QueryFind.png](./images/QueryFind.png)
+![QueryFindLessThanOr.png](./images/QueryFindLessThanOr.png)
+![QueryFindStatusD.png](./images/QueryFindStatusD.png)
+![QueryFindStatusDandA.png](./images/QueryFindStatusDandA.png)
+![QueryFindStatusOrAnd.png](./images/QueryFindStatusOrAnd.png)
+
+### update
+
+![UpdateItem.png](./images/UpdateItem.png)
+![UpdateManyAndReplace.png](./images/UpdateManyAndReplace.png)
+
+### remove
+
+![Delete.png](./images/Delete.png)
+![Bulk.png](./images/Bulk.png)
+
+### bulk write operations
 
 - - Experiment 2 example working and the additional Map-reduce operation (and its result) developed by each of you.
 
