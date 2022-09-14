@@ -4,9 +4,13 @@ Written by `Nicolas M Mjøs | h578011`
 
 ### Technical Problems
 
-- Screenshots for:
+None so far.
 
-- - The correct validation of the installation package (https://docs.mongodb.com/manual/tutorial/verify-mongodb-packages/)
+### Validation of installation package:
+
+![Validation](./images/HashValidation.png)
+
+### Experiment 1
 
 - - Relevant results obtained during Experiment 1 (it is not necessary to put a single screenshot on each substep, but at least one significant from each CRUD operation).
 
