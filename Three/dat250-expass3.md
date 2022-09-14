@@ -19,7 +19,6 @@ None so far.
 
 ### query
 
-![HashValidation.png](./images/HashValidation.png)
 ![InsertOne.png](./images/InsertOne.png)
 ![InsertTwo.png](./images/InsertTwo.png)
 ![QueryFind.png](./images/QueryFind.png)
