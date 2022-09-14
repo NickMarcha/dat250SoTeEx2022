@@ -35,9 +35,46 @@ None so far.
 ### remove
 
 ![Delete.png](./images/Delete.png)
-![Bulk.png](./images/Bulk.png)
 
 ### bulk write operations
+
+![Bulk.png](./images/Bulk.png)
+
+## Experiment 2
+
+#### Initial Database:
+
+![InitialDB.png](./images/Experiment2InitialDB.png)
+
+### Total Price Per Customer
+
+#### Map Reduce Example:
+
+![Experiment2MapReduceExample.png](./images/Experiment2MapReduceExample.png)
+
+#### Aggregation Alternative:
+
+![Experiment2AggAlternativeExample.png](./images/Experiment2AggAlternativeExample.png)
+
+### Calculate Order and Total Quantity with Average Quantity Per Item
+
+#### Map Reduce Example 2:
+
+![Experiment2MapReduceExample2.png](./images/Experiment2MapReduceExample2.png)
+
+#### Aggregation Alternative 2:
+
+![Experiment2AggAlternativeExample2.png](./images/Experiment2AggAlternativeExample2.png)
+
+### Custom: calculate average order total per customer
+
+Aim:\
+return customers with their median and mean average order totals.\
+Use:\
+This function can be useful to analyse customer behavour to for example create rewards programs that encourage customers to spend a little bit more.
+
+\
+\
 
 - - Experiment 2 example working and the additional Map-reduce operation (and its result) developed by each of you.
 
