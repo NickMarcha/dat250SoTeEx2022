@@ -2,10 +2,6 @@
 
 Written by `Nicolas M Mjøs | h578011`
 
-In particular, you should write about:
-
-technical problems that you encountered during installation and use of Java Persistence Architecture (JPA) and how you resolved
-
 ### Technical Problems
 
 None encountered this time.
