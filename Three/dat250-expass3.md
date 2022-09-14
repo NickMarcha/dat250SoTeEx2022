@@ -69,15 +69,11 @@ None so far.
 ### Custom: calculate average order total per customer
 
 Aim:\
-return customers with their median and mean average order totals.\
+return customers with total amount of orders, customerPriceTotal and mean average order totals.\
 Use:\
 This function can be useful to analyse customer behavour to for example create rewards programs that encourage customers to spend a little bit more.
 
-\
-\
+Alle mongosh queries are in this [file](./customquery.js).
 
-- - Experiment 2 example working and the additional Map-reduce operation (and its result) developed by each of you.
-
-- Reason about why your implemented Map-reduce operation in Experiment 2 is useful and interpret the collection obtained.
-
-- Any pending issues with this assignment which you did not manage to solve
+Result of query:
+![](./images/CustomMapReduce.png)
