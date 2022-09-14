@@ -16,7 +16,7 @@ https://github.com/selabhvl/dat250public/blob/master/expassignments/expass1.md (
 You must hand in a link to your GitHub repository. Please make sure your report contains the URL to your Heroku app.
 ```
 #### Turn In
-Due to some issues with conflicts with between github & heroku this expirement remains in [another repo](https://github.com/h578011/SoTeExOne). I have included a copy of the report in this repo [here](./One/dat250-expass1.md).
+Due to some issues with conflicts with between github & heroku this experiment remains in [another repo](https://github.com/h578011/SoTeExOne). I have included a copy of the report in this repo [here](./One/dat250-expass1.md).
 
 ## Experiment 2: JPA
 #### Assignment instructions
