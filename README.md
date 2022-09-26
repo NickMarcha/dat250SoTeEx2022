@@ -11,7 +11,7 @@ Two: Approved🟢 \
 Three: Approved🟢 \
 Four: Approved🟢 \
 Five: Submitted🟡 \
-Six: Not Initiated ⚫ \
+Six: Initiated ⚪ \
 Seven: Not Initiated⚫
 
 ## Experiment 1: Software Development Environment
@@ -101,7 +101,11 @@ You must hand in a link to your github repository.
 [Instruction](https://github.com/selabhvl/dat250public/blob/master/expassignments/expass5.md)
 
 ```
+See:
 
+https://github.com/selabhvl/dat250public/blob/master/expassignments/expass5.md (Links to an external site.)
+
+You must hand in a link to your github repository.
 ```
 
 #### Turn In
@@ -117,6 +121,11 @@ You must hand in a link to your github repository.
 [Instruction](https://github.com/selabhvl/dat250public/blob/master/expassignments/expass6.md)
 
 ```
+See:
+
+https://github.com/selabhvl/dat250public/blob/master/expassignments/expass6.md  (Links to an external site.)
+
+You must hand in a link to your github repository.
 
 ```
 
@@ -133,7 +142,11 @@ You must hand in a link to your github repository.
 [Instruction](https://github.com/selabhvl/dat250public/blob/master/expassignments/expass7.md)
 
 ```
+See:
 
+https://github.com/selabhvl/dat250public/blob/master/expassignments/expass7.md (Links to an external site.)
+
+You must hand in a link to your github repository.
 ```
 
 #### Turn In
