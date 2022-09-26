@@ -5,13 +5,14 @@
 student: h577011 course: DAT250 institution: HVL
 
 ### Status
+
 One: Approved🟢 \
 Two: Approved🟢 \
 Three: Approved🟢 \
-Four: Submitted🟡 \
-Five: Initiated🔵 \
+Four: Approved🟢 \
+Five: Submitted🟡 \
 Six: Not Initiated ⚫ \
-Seven: Not Initiated⚫ 
+Seven: Not Initiated⚫
 
 ## Experiment 1: Software Development Environment
 
