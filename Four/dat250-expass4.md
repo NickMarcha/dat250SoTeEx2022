@@ -2,16 +2,10 @@
 
 Written by `Nicolas M Mjøs | h578011`
 
-### Hand-in: short report
+## Technical Problems
 
-As hand-in, you must add a markdown file called `dat250-expass4.md` to the same repository that you created in the earlier software technology assignments.
+None so far.
 
-In particular, you should write about:
-
-- technical problems that you encountered during installation and use of Java Persistence Architecture (JPA) and how you resolved
-
-- a link to your code for experiments 2-4 above
-
-- any pending issues with this assignment that you did not manage to solve
-
-The hand-in should be written in **English**.
+## Result
+Code repository is available [here](https://github.com/NickMarcha/dat250-sparkjava-counter) 
+No pending issues except for not finding the "slide 36 from the lectures on web services", I believe this was in reference to the URL paths so I implemented them as I have been taught before.
