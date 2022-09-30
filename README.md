@@ -11,7 +11,7 @@ Two: Approved🟢 \
 Three: Approved🟢 \
 Four: Approved🟢 \
 Five: Submitted🟡 \
-Six: Initiated ⚪ Waiting for [lecturenotes](https://hvl.instructure.com/courses/21915/pages/lecture-12-single-page-web-applications?module_item_id=531440)\
+Six: Submitted🟡 \
 Seven: Initiated ⚪
 
 ## Experiment 1: Software Development Environment
