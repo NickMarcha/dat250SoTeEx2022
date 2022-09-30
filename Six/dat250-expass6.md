@@ -11,7 +11,7 @@ Solved by Proxy \
 
 ### Code for experiments:
 
-[Experiment 1: Model-View-Controller Web Applications](./ExperimentOne/)
+[Experiment 1: Model-View-Controller Web Applications](./ExperimentOne/) \
 [Experiment 2: Single-page applications](./ExperimentTwo/)
 
 ### Result Experiment Two:
