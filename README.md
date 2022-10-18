@@ -12,7 +12,7 @@ Three: Approved🟢 \
 Four: Approved🟢 \
 Five: Approved🟢 \
 Six: Approved🟢 \
-Seven: Submitted🟡
+Seven: Approved🟢
 
 ## Experiment 1: Software Development Environment
 
